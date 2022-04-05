@@ -1,0 +1,3 @@
+C:/Users/ogunw/Documents/scripts/Projects/crediometer/ISO8583PARSER/out/build/x64-Debug/CMakeFiles/ISO8583PARSER.dir
+C:/Users/ogunw/Documents/scripts/Projects/crediometer/ISO8583PARSER/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ogunw/Documents/scripts/Projects/crediometer/ISO8583PARSER/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

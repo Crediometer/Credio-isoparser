@@ -1,0 +1,6 @@
+# ninja log v5
+0	1100	6704223725255790	CMakeFiles/ISO8583PARSER.dir/main.cpp.obj	879a2cfb3b0ae150
+4	938	6704223723636735	CMakeFiles/ISO8583PARSER.dir/src/Isomessage.cpp.obj	81a0dda1994891a1
+17	1147	6704163528849502	CMakeFiles/ISO8583PARSER.dir/src/utils.cpp.obj	d836c7b067482d4a
+10	742	6704163524659541	CMakeFiles/ISO8583PARSER.dir/src/data.cpp.obj	aa4e3c9654f740da
+4	929	6704204363769661	CMakeFiles/ISO8583PARSER.dir/src/DataElementsConfig.cpp.obj	e3ab8bdda8faa4a9

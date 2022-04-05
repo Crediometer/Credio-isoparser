@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/ogunw/Documents/scripts/Projects/crediometer/ISO8583PARSER/out/build/x64-Debug/CMakeFiles/ISO8583PARSER.dir/embed.manifest"
